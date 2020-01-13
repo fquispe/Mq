@@ -1,0 +1,3604 @@
+﻿<RegistroNotasPorDocenteRequest xmlns="http://schemas.datacontract.org/2004/07/MED.SiagieSOA.Servicios.Evaluacion.DataContracts" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Items>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11067021600010</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>7288679</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>ANAYA CONDE BAYRON FABRIZIO</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11134624600380</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>7127867</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>AVENDAÑO ENCISO CAMILA VALERIA</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de distintos textos orales e intercabiar ideas con distitos interlocutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de diversos tipos de textos escritos en Inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>71186566</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>14026495</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>BAUTISTA LLALLAHUI CARLOS PAOLO</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>12042168500156</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>17756797</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>CAMPOS BARTOLO IBETH GARYELA</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>61348845</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>18071687</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>CASAS GONZALES SOFIA MERCEDES</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11047174800360</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>10490302</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>CHAUPIN MENDOZA ARIANA DENISSE</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>61272144</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>2180901</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>CORONADO BARTOLO VALERIA CELESTE</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de distintos textos orales e intercabiar ideas con distitos interlocutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de diversos tipos de textos escritos en Inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>00000061272133</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>21630449</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>ELLISCA JAICO DIEGO ANGEL</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de diversos tipos de textos escritos en Inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11134616200020</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>10062889</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>GALINDO HERRERAS HEIDY XIOMARA</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de distintos textos orales e intercabiar ideas con distitos interlocutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de diversos tipos de textos escritos en Inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>61335160</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>18705131</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>GALINDO HUAYANAY JORGE MIGUEL</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>61271618</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>18587480</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>GARCIA ROJAS ISABEL MARIA FERNANDA</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de distintos textos orales e intercabiar ideas con distitos interlocutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de diversos tipos de textos escritos en Inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11145529400150</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>16169520</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>GONZALES TENORIO LUCIANA ASTRID</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11119989200250</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>14311772</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>HERRERA GUERRERO JORGE JOSUE</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11139033500060</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>14723772</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>HUAMANTINCO HUAYLLASCO EMMY LY</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11137747200010</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>10281087</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>IZQUIERDO ZAGACETA LIDLEY FELIPE</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11042168500460</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>14909201</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>MENESES HUAMAN ELENA RUBI</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11047175500190</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>7406931</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>MORALES RODRIGUEZ LEYTON ROMARIO</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>12067017400300</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>20767605</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>ONCEBAY SOTO RAY MANUEL</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>61164737</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>16226176</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>QUINTO LOBO BRYAN STIFF</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de distintos textos orales e intercabiar ideas con distitos interlocutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de obtener informacion de diversos tipos de textos escritos en Inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Esta en proceso de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>B</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>61383829</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>14025629</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>SERRANO ZELARAYAN GABRIEL RENAN</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel destacado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>AD</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel destacado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>AD</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>AD</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>61383763</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>15897768</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>SULCA PALOMINO LUANA CORALI</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>61145550</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>10447857</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>TENORIO FLORES ALEXIA KAMILA</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel destacado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>AD</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>00000061377979</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>22504696</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>TORRES GOMEZ JELENA JOHANA TATIANA</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11067021600050</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>7891051</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>VALENCIA DOMINGUEZ HUGHES ARTURO</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+    <ItemRegistroNotasPorPeriodo>
+      <Estudiante>
+        <AsignaturasFinales i:nil="true" />
+        <IdUsuario>45463921</IdUsuario>
+        <Notas>
+          <NotasPorEstudiante>
+            <IdUsuario>45463921</IdUsuario>
+            <anexo>0</anexo>
+            <cod_mod>1139146</cod_mod>
+            <id_anio>2019</id_anio>
+            <id_grado>09</id_grado>
+            <id_nivel>B0</id_nivel>
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de obtener informacion de textos orales e intercambiar ideas con distintos locutores. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area>0003</id_area>
+            <id_asignatura>01</id_asignatura>
+            <id_disenio>20</id_disenio>
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>01</id_nota_asignatura>
+            <id_periodo>T3</id_periodo>
+            <id_persona>0</id_persona>
+            <id_seccion>01</id_seccion>
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Evidencia un nivel esperado al momento de obtener informacion de diversos tipos de textos escritos en inglés. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>02</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+          <NotasPorEstudiante>
+            <IdUsuario i:nil="true" />
+            <anexo i:nil="true" />
+            <cod_mod i:nil="true" />
+            <id_anio>0</id_anio>
+            <id_grado i:nil="true" />
+            <id_nivel i:nil="true" />
+            <descripcion_nivel_logro_alcanzado_por_periodo>Demuestra un nivel esperado al momento de organizar y desarrollar las ideas de forma coherente y cohesionada. </descripcion_nivel_logro_alcanzado_por_periodo>
+            <dsc_area i:nil="true" />
+            <dsc_asignatura i:nil="true" />
+            <dsc_grado i:nil="true" />
+            <dsc_periodo i:nil="true" />
+            <dsc_seccion i:nil="true" />
+            <estadoevaluado>true</estadoevaluado>
+            <id_area i:nil="true" />
+            <id_asignatura i:nil="true" />
+            <id_disenio i:nil="true" />
+            <id_grupo_seccion i:nil="true" />
+            <id_nota_asignatura>03</id_nota_asignatura>
+            <id_periodo i:nil="true" />
+            <id_persona>0</id_persona>
+            <id_seccion i:nil="true" />
+            <idtipocalificacionevaluacion>0</idtipocalificacionevaluacion>
+            <nombre_grupo i:nil="true" />
+            <nota>A</nota>
+          </NotasPorEstudiante>
+        </Notas>
+        <NotasFinales i:nil="true" />
+        <codigo_estudiante>11161005400100</codigo_estudiante>
+        <esExcel>true</esExcel>
+        <id_matricula i:nil="true" />
+        <id_persona>9114865</id_persona>
+        <id_seccion i:nil="true" />
+        <nombre_completo>YUNCACCALLO CANALES MARICIELO</nombre_completo>
+      </Estudiante>
+      <IdUsuario>45463921</IdUsuario>
+      <NotasFinales>
+        <IdUsuario i:nil="true" />
+        <anexo i:nil="true" />
+        <cod_mod i:nil="true" />
+        <id_anio>0</id_anio>
+        <id_grado i:nil="true" />
+        <id_nivel i:nil="true" />
+        <descripcion_nivel_logro_alcanzado_por_periodo />
+        <dsc_area i:nil="true" />
+        <es_conducta i:nil="true" />
+        <estado_proceso>false</estado_proceso>
+        <id_area i:nil="true" />
+        <id_disenio i:nil="true" />
+        <id_periodo i:nil="true" />
+        <id_persona>0</id_persona>
+        <id_seccion i:nil="true" />
+        <nota_final_area />
+        <notas_final_asignatura i:nil="true" />
+        <resultado_area_enperiodo i:nil="true" />
+      </NotasFinales>
+      <ObservacionesPrevias xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <ObviarRegresarEnProceso>false</ObviarRegresarEnProceso>
+      <ProcesoId>129095822</ProcesoId>
+      <TipoNota>
+        <IdUsuario>45463921</IdUsuario>
+        <anexo>0</anexo>
+        <cod_mod>1139146</cod_mod>
+        <id_anio>2019</id_anio>
+        <id_grado>09</id_grado>
+        <id_nivel>B0</id_nivel>
+        <criterio_filtro>2</criterio_filtro>
+        <deingreso>1</deingreso>
+        <descripcion_nivel_logro_alcanzado_por_periodo i:nil="true" />
+        <dsc_nota_asignatura>NOTA FINAL</dsc_nota_asignatura>
+        <estadoevaluado i:nil="true" />
+        <id_area>0003</id_area>
+        <id_asignatura i:nil="true" />
+        <id_disenio>20</id_disenio>
+        <id_fase>01</id_fase>
+        <id_nota_asignatura>01</id_nota_asignatura>
+        <id_periodo>T3</id_periodo>
+        <id_persona i:nil="true" />
+        <id_seccion>01</id_seccion>
+        <id_sistema_id i:nil="true" />
+        <idtiponota>C</idtiponota>
+        <nota i:nil="true" />
+        <tipo_examen>1</tipo_examen>
+        <usr_log_usr i:nil="true" />
+      </TipoNota>
+      <TipoRegistro>0</TipoRegistro>
+    </ItemRegistroNotasPorPeriodo>
+  </Items>
+</RegistroNotasPorDocenteRequest>
