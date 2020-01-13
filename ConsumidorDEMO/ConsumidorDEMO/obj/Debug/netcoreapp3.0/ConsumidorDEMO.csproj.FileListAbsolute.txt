@@ -1,0 +1,13 @@
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\bin\Debug\netcoreapp3.0\ConsumidorDEMO.exe
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\obj\Debug\netcoreapp3.0\ConsumidorDEMO.csprojAssemblyReference.cache
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\obj\Debug\netcoreapp3.0\ConsumidorDEMO.AssemblyInfoInputs.cache
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\obj\Debug\netcoreapp3.0\ConsumidorDEMO.AssemblyInfo.cs
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\bin\Debug\netcoreapp3.0\ConsumidorDEMO.deps.json
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\bin\Debug\netcoreapp3.0\ConsumidorDEMO.runtimeconfig.json
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\bin\Debug\netcoreapp3.0\ConsumidorDEMO.runtimeconfig.dev.json
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\bin\Debug\netcoreapp3.0\ConsumidorDEMO.dll
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\bin\Debug\netcoreapp3.0\ConsumidorDEMO.pdb
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\obj\Debug\netcoreapp3.0\ConsumidorDEMO.csproj.CopyComplete
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\obj\Debug\netcoreapp3.0\ConsumidorDEMO.dll
+E:\Temporal\Mq\ConsumidorDEMO\ConsumidorDEMO\obj\Debug\netcoreapp3.0\ConsumidorDEMO.pdb
